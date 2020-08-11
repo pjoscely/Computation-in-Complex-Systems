@@ -9,6 +9,9 @@ Units include:
 Easy and Hard
 
 Algorithms and Landscapes
+
 P versus NP
+
 Worst-case, Natural, and Random
+
 Computation Everywhere

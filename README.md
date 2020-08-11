@@ -7,6 +7,7 @@ This course explores computational complexity, from search algorithms and soluti
 Units include:
 
 Easy and Hard
+
 Algorithms and Landscapes
 P versus NP
 Worst-case, Natural, and Random
